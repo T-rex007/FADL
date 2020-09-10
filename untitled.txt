@@ -1,0 +1,2 @@
+Models/
+multi_spectral_image_classification/
